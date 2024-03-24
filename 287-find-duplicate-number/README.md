@@ -1,0 +1,2 @@
+#### Note
+- To solve this problem without modifying the array and using only constant extra space, we can apply the Floyd's Tortoise and Hare (Cycle Detection) algorithm. This algorithm is commonly used to detect cycles in linked lists but can also be adapted to find duplicate elements in an array.
